@@ -1,0 +1,6 @@
+./api/.env
+./store/.env
+./target
+.DS_Store
+.env
+target/
