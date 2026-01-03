@@ -1,0 +1,1 @@
+Simple project to get familiar with Rust.
